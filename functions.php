@@ -1,6 +1,7 @@
 <?php
 function getUser()
 {
-    echo'User is real.';
+    if (true){
+    echo'User is real.';}
 }
 ?>
