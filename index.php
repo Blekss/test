@@ -1,5 +1,5 @@
 <?php
-//this is our index.php
+//this is our index.php wtf
 
 
 ?>
